@@ -1,6 +1,7 @@
 body{
 
     background-color: bisque;
+    font-family: 'Galada', cursive;
 }
 p{
 
@@ -13,15 +14,23 @@ p{
     
 }
 h1{
-    font-family: 'Galada';
+  font-family: 'Galada', cursive;
     text-decoration-style: solid;
     text-align: center;
 }
 
 h2{
-font-family: 'Galada';
+
 text-decoration-style: solid
 text-align:center;
+li {
+  font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: black;
+    font-size:20px;
+    text-align: justify;
+    line-height: 35px;
+    color:gray;
+}
 
 }
 <style>
